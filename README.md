@@ -1,6 +1,6 @@
 - 👋 Hi, @I-am-shreybhardwaj
-- 👀 I’m interested in CYBER SECURITY & SOFTWARE DEVELOPING.
-- 🌱 I’m currently learning Cyber security concept & improve my Developer Skill.
+- 👀 I’m interested in CYBER SECURITY & Coding.
+- 🌱 I’m currently learning Cyber security concept & improve my coding Skills.
 - 📫 How to reach me Instagram-Shrey__bhardwaj
 
 <!---
