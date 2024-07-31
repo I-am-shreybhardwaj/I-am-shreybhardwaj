@@ -1,4 +1,5 @@
 About Me:
+
 Experienced in building robust web applications and microservices architecture using modern frontend and backend technologies. Passionate about leveraging cloud infrastructure and DevOps practices to automate workflows and enhance scalability. Proficient in designing and optimizing databases for performance and reliability. Skilled in monitoring and analytics tools to ensure application health and performance. Committed to continuous learning and staying updated with industry trends.
 
 Key Projects:
@@ -13,8 +14,11 @@ Open Source Contributions:
 Actively contribute to open-source projects related to JavaScript frameworks and Python libraries, promoting community-driven development and collaboration.
 
 Contact:
+
 📧 Email: shreybhardwaj45@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/shrey-bhardwaj-15a912202/
+
 🌐 Portfolio: yourportfolio.com
 
 Let's connect and build something amazing together!
