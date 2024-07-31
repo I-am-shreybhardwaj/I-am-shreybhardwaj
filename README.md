@@ -5,6 +5,7 @@ Experienced in building robust web applications and microservices architecture u
 Key Projects:
 
 Project A: Developed a scalable e-commerce platform using React.js, Node.js, Python, Django, Postgresql and MongoDB, deployed on AWS EC2 instances.
+
 Project B: Built a real-time analytics dashboard with Elasticsearch and Kibana for monitoring system logs and performance metrics.
 Achievements:
 
