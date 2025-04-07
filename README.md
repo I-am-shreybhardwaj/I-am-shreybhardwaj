@@ -16,11 +16,11 @@ Actively contribute to open-source projects related to JavaScript frameworks and
 
 Contact:
 
-📧 Email: shreybhardwaj45@gmail.com
+📧 Email: shrey.bhardwaj.ntgen1@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/shrey-bhardwaj-15a912202/
 
-🌐 Portfolio: yourportfolio.com
+🌐 Portfolio: https://portfolio.ntgen1.in
 
 Let's connect and build something amazing together!
 
